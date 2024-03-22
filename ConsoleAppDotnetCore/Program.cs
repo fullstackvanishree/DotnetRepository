@@ -79,6 +79,7 @@ namespace ConsoleAppDotnetCore
             {
                 Console.WriteLine("Login Failed");
             }
+            Console.WriteLine("Github training");
 
 
 
